@@ -1,0 +1,17 @@
+# Dependencies
+/node_modules
+
+# Production (build directory is typically generated when you create a production build of a React application with npm run build)
+/build
+
+# Testing (coverage reports: show how much code is being tested)
+/coverage
+
+# Miscellaneous
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
